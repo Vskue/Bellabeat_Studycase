@@ -1,2 +1,2 @@
 # Bellabeat_Studycase
-This repository is for practicing the R Programming.
+This repository is for practicing R Programming.
